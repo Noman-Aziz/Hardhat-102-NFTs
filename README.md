@@ -19,8 +19,12 @@ This project is part of the Javascript Blockchain/Smart Contract FreeCodeCamp Co
 1. A Basic NFT
 2. IPFS Hosted NFT 
    1. That uses Randomness to generate a unique NFT
+   2. Pros: Cheap
+   3. Cons: Someone needs to pin our data
 3. SVG NFT (Hosted 100% on-chain) 
    1. Uses price feeds to be dynamic
+   2. Pros: The data is on chain!
+   3. Cons: MUCH more expensive!
 
 # Usage
 
